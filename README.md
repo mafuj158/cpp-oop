@@ -1,6 +1,6 @@
 ﻿# C++ Object-Oriented Programming (OOP) Practice Lab
 
-Welcome to your structured C++ Object-Oriented Programming repository! This workspace is designed step-by-step from foundational concepts to advanced design patterns and practical applications.
+Welcome to your structured C++ Object-Oriented Programming repository! This workspace is designed step-by-step from foundational concepts to advanced design patterns and practical application.
 
 ---
 
